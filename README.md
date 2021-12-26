@@ -1,3 +1,5 @@
+![fancy](https://media.discordapp.net/attachments/546804787677757503/924597753772908574/fancycooltext.gif)
+
 - 👋 Hi, I’m @FancyBaguette
 - 👀 I’m interested in ... balls
 - 🌱 I’m currently learning ... balls
