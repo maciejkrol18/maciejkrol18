@@ -1,1 +1,1 @@
-![bagieta](https://media.discordapp.net/attachments/605806585364873217/827326429661888552/1617320346334.gif)
+![bagieta](https://static.wikia.nocookie.net/minecraft_pl_gamepedia/images/8/88/Ognisko.gif/revision/latest?cb=20200413180427)
