@@ -1,17 +1,21 @@
 <p align=center>
-  <h1 align=center>Welcome</h1>
+  <h1 align=center>&#10096;  Welcome  &#10097;</h1>
+  <br>
+  <br>
   <p align=center><img align=center src=https://c.tenor.com/mZ_XDJhczAAAAAAi/neco-arc-dance.gif></p>
-  <svg width="120" height="120">
-<g>
-<rect fill="red" width="120" height="60" rx="60" ry="30" >
-<animateTransform attributeName="transform"
-type="rotate"
-from="0 60 30"
-to="360 60 30"
-dur="0.0059998800024s"
-repeatCount="indefinite" />
-</rect>
-<rect fill="blue" width="120" height="60" rx="60" ry="30" >
-</g>
-</ svg>
+  <br>
+  <br>
 </p>
+<h2>🎓 I'm currently learning</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JS</li>
+</ul>
+  
+<h2>⛓ Links</h2>
+<ul>
+  <li> <a href="https://www.frontendmentor.io/profile/FancyBaguette">Frontend Mentor</a> </li>
+  <li> <a href="https://www.fancybaguette.github.io">Website</a> </li>
+  <li> <a href="https://codepen.io/fancybaguette">Codepen</a> </li>
+</ul>
