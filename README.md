@@ -1,11 +1,8 @@
 <p align=center>
   <h1 align=center>&#10096;  Welcome  &#10097;</h1>
-  <br>
-  <br>
   <p align=center><img align=center src=https://c.tenor.com/mZ_XDJhczAAAAAAi/neco-arc-dance.gif></p>
-  <br>
-  <br>
 </p>
+
 <h2>🎓 I'm currently learning</h2>
 <ul>
   <li>HTML</li>
