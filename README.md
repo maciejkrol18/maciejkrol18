@@ -9,6 +9,7 @@
   <li>CSS</li>
   <li>JS</li>
 </ul>
+<b>Right now i'm mostly completing Frontend Mentor challanges</b><br>
   
 <h2>⛓ Links</h2>
 <ul>
