@@ -1,17 +1,15 @@
-<!-- <p align=center>
-  <h1 align=center>&#10096;  Welcome  &#10097;</h1>
-  <p align=center><img align=center src=https://c.tenor.com/mZ_XDJhczAAAAAAi/neco-arc-dance.gif></p>
+<!-- GENERAL STATS 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FancyBaguette&theme=react&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+MOST USED LANGS 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FancyBaguette&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align=center>
+<a align=center href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FancyBaguette&theme=react&show_icons=true&hide_title=true" />
+</a>
 </p>
-
-<h2>🎓 I'm currently learning</h2>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JS</li>
-</ul>
-<b>Right now i'm mostly completing Frontend Mentor challanges</b><br> -->
 
 <p align=center>
-  <img align=center src=https://cdn.discordapp.com/attachments/546804787677757503/967735512406319104/Github_profile_card.png>
+<a align=center href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FancyBaguette&layout=compact&theme=react" />
+</a>
 </p>
-
