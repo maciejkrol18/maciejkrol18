@@ -1,6 +1,9 @@
 # Welcome to my profile! 👋
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/DISCORD-Fancy_Baguette_5955-2b6fcb?style=for-the-badge&logo=discord">
+</div><br>
 
-I'm Fancy and right now i'm learning all things web development
+I'm Fancy and right now i'm learning all things web development. Currently completing the **Frontend Developer Career Path** course on Scrimba
 
 ## 🧰 My toolbox
 <div style="display: flex;">
