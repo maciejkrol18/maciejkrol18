@@ -22,9 +22,9 @@ I'm Fancy and right now i'm learning web development. Currently completing the *
 
 ## 🏆 My stats
 
-[![My github stats (by Anurag)... they seem to not have loaded correctly](https://github-readme-stats.vercel.app/api?username=FancyBaguette&show_icons=true&hide_title=true&bg_color=191A19&text_color=f3f3f3&icon_color=4E944F&border_color=252625)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats (by Anurag) - error while loading](https://github-readme-stats.vercel.app/api?username=FancyBaguette&show_icons=true&hide_title=true&bg_color=191A19&text_color=f3f3f3&icon_color=4E944F&border_color=252625)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My top used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FancyBaguette&layout=compact&bg_color=191A19&text_color=f3f3f3&icon_color=4E944F&border_color=252625&title_color=4E944F)](https://github.com/anuraghazra/github-readme-stats)
+[![My top used langs - error while loading](https://github-readme-stats.vercel.app/api/top-langs/?username=FancyBaguette&layout=compact&bg_color=191A19&text_color=f3f3f3&icon_color=4E944F&border_color=252625&title_color=4E944F)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p align=center>
 <a align=center href="https://github.com/anuraghazra/github-readme-stats">
