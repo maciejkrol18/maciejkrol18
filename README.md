@@ -5,8 +5,6 @@
 
 I'm Fancy and right now i'm learning web development. Currently completing the **Frontend Developer Career Path** course on Scrimba and doing some smaller projects from time to time.
 
-<b>You can visit my simple portfolio site <a href="https://fancybaguette.github.io">here!</a></b>
-
 ## 🧰 My toolbox
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/Language-JS-4E944F?style=for-the-badge&logo=javascript">
