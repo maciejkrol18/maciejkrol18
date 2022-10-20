@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/DISCORD-Fancy_Baguette_5955-2b6fcb?style=for-the-badge&logo=discord">
 </div><br>
 
-I'm Fancy and right now i'm learning web development. Currently completing the **Frontend Developer Career Path** course on Scrimba and doing some smaller projects from time to time.
+I'm Maciej and i'm an aspiring web developer. Currently completing the **Frontend Developer Career Path** course on Scrimba. 
 
 ## 🧰 My toolbox
 <div style="display: flex;">
