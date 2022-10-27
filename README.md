@@ -10,7 +10,6 @@ I'm Maciej and i'm an aspiring web developer. Currently completing the **Fronten
   <img src="https://img.shields.io/badge/Language-JS-4E944F?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/Language-HTML-4E944F?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/Language-CSS-4E944F?style=for-the-badge&logo=css3"><br>
-  <img src="https://img.shields.io/badge/OS-Windows-4E944F?style=for-the-badge&logo=windows">
   <img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-4E944F?style=for-the-badge&logo=visualstudiocode">
 <!--   <img src="https://img.shields.io/badge/FRAMEWORK-React-4E944F?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/FRAMEWORK-Vue-4E944F?style=for-the-badge&logo=vuedotjs"> -->
