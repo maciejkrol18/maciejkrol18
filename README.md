@@ -1,6 +1,7 @@
 # Welcome to my profile! 👋
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/DISCORD-Fancy_Baguette_5955-2b6fcb?style=for-the-badge&logo=discord">
+  <img src="https://komarev.com/ghpvc/?username=FancyBaguette&style=for-the-badge">
 </div><br>
 
 I'm Maciej and i'm an aspiring web developer. Currently completing the **Frontend Developer Career Path** course on Scrimba. 
