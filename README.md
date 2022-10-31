@@ -1,21 +1,17 @@
 # Welcome to my profile! 👋
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/DISCORD-Fancy_Baguette_5955-2b6fcb?style=for-the-badge&logo=discord">
-  <img src="https://komarev.com/ghpvc/?username=FancyBaguette&style=for-the-badge">
-</div><br>
+![My discord](https://img.shields.io/badge/Fancy_Baguette_5955-1e2636?style=for-the-badge&logo=discord)
+![Profile views](https://komarev.com/ghpvc/?username=FancyBaguette&style=for-the-badge)
+<br>
 
 I'm Maciej and i'm an aspiring web developer. Currently completing the **Frontend Developer Career Path** course on Scrimba. 
 
 ## 🧰 My toolbox
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/Language-JS-4E944F?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/Language-HTML-4E944F?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/Language-CSS-4E944F?style=for-the-badge&logo=css3"><br>
-  <img src="https://img.shields.io/badge/IDE-Visual_Studio_Code-4E944F?style=for-the-badge&logo=visualstudiocode">
+  ![Javascript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+  ![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-18459e?style=for-the-badge&logo=visualstudiocode)
 <!--   <img src="https://img.shields.io/badge/FRAMEWORK-React-4E944F?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/FRAMEWORK-Vue-4E944F?style=for-the-badge&logo=vuedotjs"> -->
-</div>
-
 <br>
 
 ## 🏆 My stats
