@@ -23,8 +23,6 @@ I'm Maciej and I'm an aspiring Frontend Developer from Poland. I'm currently com
   ![Corsair Vengeance 16GB 3000MHz RAM](https://img.shields.io/badge/VENGEANCE_16GB_3000MHz-d49d1e?style=for-the-badge&logo=corsair)
   ![Windows 10 Operating system](https://img.shields.io/badge/Windows_10-blue?style=for-the-badge&logo=windows)
   ![Firefox Browser](https://img.shields.io/badge/Firefox_106.0.2-382687?style=for-the-badge&logo=firefox)
-  
-  ***I plan to learn Linux soon and switch to it***
 
   <!-- ## 🙍‍♂️ Visitor count
   ![:FancyBaguette](https://count.getloli.com/get/@FancyBaguette?theme=rule34)<br>
