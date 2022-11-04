@@ -40,5 +40,5 @@ I'm Maciej and I'm an aspiring Frontend Developer from Poland. I'm currently com
 [![My top used langs - error while loading](https://github-readme-stats.vercel.app/api/top-langs/?username=FancyBaguette&layout=compact&theme=react&border_color=434554)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📧 Contact me
-[![My Email: maciej.krol11@op.pl](https://img.shields.io/badge/Send_me_an_Email-2e1e00?style=for-the-badge&logo=gmail)](mailto:maciej.krol11@op.pl)<br>
+[![My Email: maciej.krol11@op.pl](https://img.shields.io/badge/Send_me_an_Email-e3e3e3?style=for-the-badge&logo=gmail)](mailto:maciej.krol11@op.pl)<br>
 ![My discord: FancyBaguette#5955](https://discord.c99.nl/widget/theme-3/275353623884464129.png)
