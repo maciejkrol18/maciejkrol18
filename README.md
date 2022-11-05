@@ -4,9 +4,10 @@ I'm Maciej and I'm an aspiring Frontend Developer from Poland. I'm currently com
 
 ## 🧰 My toolbox
   ![Javascript](https://img.shields.io/badge/JAVASCRIPT-b8a728?style=for-the-badge&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-  ![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+  ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+  ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
   ![SCSS](https://img.shields.io/badge/SCSS-purple?style=for-the-badge&logo=sass)
+  ![Tailwind](https://img.shields.io/badge/TAILWIND-1c7e85?style=for-the-badge&logo=tailwindcss)
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-18459e?style=for-the-badge&logo=visualstudiocode)
 <!--   <img src="https://img.shields.io/badge/FRAMEWORK-React-4E944F?style=for-the-badge&logo=react">
   <img src="https://img.shields.io/badge/FRAMEWORK-Vue-4E944F?style=for-the-badge&logo=vuedotjs"> -->
