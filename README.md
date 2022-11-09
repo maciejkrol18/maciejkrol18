@@ -2,7 +2,6 @@
 
 My name is Maciej and I'm an aspiring Frontend Developer from Poland. I'm currently learning all things related to Frontend Development (mainly Javascript & CSS), and i'm also completing the Frontend Path course on Scrimba.
 
-<br>
 
 ## 🧰 My toolbox
   ![Javascript](https://img.shields.io/badge/JAVASCRIPT-b8a728?style=for-the-badge&logo=javascript)
