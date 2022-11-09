@@ -1,29 +1,15 @@
 # Welcome to my profile! 👋
 
-I'm Maciej and I'm an aspiring Frontend Developer from Poland. I'm currently completing the **Frontend Developer Career Path** course on Scrimba. 
+My name is Maciej and I'm an aspiring Frontend Developer from Poland. I'm currently learning all things related to Frontend Development (mainly Javascript & CSS), and i'm also completing the Frontend Path course on Scrimba.
 
 ## 🧰 My toolbox
   ![Javascript](https://img.shields.io/badge/JAVASCRIPT-b8a728?style=for-the-badge&logo=javascript)
   ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
   ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-  ![SCSS](https://img.shields.io/badge/SCSS-purple?style=for-the-badge&logo=sass)
+  ![SASS](https://img.shields.io/badge/SASS-purple?style=for-the-badge&logo=sass)
   ![Tailwind](https://img.shields.io/badge/TAILWIND-1c7e85?style=for-the-badge&logo=tailwindcss)
+  ![Figma](https://img.shields.io/badge/FIGMA-191c1f?style=for-the-badge&logo=figma)
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-18459e?style=for-the-badge&logo=visualstudiocode)
-<br>
-
-<details>
-  <summary>
-    <samp>&#9776; More details</samp>
-  </summary>
-  
-  ## 💻 Workspace specs
-  ![Ryzen 3 3200G Processor](https://img.shields.io/badge/RYZEN_3_3200G-red?style=for-the-badge&logo=amd)
-  ![MSI Radeon RX570 4GB Graphics card](https://img.shields.io/badge/MSI_RX570_4GB-darkred?style=for-the-badge&logo=msi)
-  ![Corsair Vengeance 16GB 3000MHz RAM](https://img.shields.io/badge/VENGEANCE_16GB_3000MHz-d49d1e?style=for-the-badge&logo=corsair)
-  ![Windows 10 Operating system](https://img.shields.io/badge/Windows_10-blue?style=for-the-badge&logo=windows)
-  ![Firefox Browser](https://img.shields.io/badge/Firefox_106.0.2-382687?style=for-the-badge&logo=firefox)
-  
-</details>
 <br>
 
 ## 🏆 My stats
