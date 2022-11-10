@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋
 
-My name is Maciej, and I'm a highschool student from Wrocław, Poland, aspiring to become a Frontend Developer. I'm currently learning all things related to Frontend Development (mainly Javascript & CSS), and i'm also completing the Frontend Path course on Scrimba.
+My name is Maciej, and I'm a highschool student from Poland, aspiring to become a Frontend Developer. I'm currently learning all things related to Frontend Development (mainly Javascript & CSS), and i'm also completing the Frontend Path course on Scrimba.
 
 
 ## 🧰 My toolbox
