@@ -1,4 +1,4 @@
-# Welcome to my profile! 👋
+<!-- # Welcome to my profile! 👋
 
 My name is Maciej, and I'm a highschool student from Poland, aspiring to become a Frontend Developer. I'm currently learning all things related to Frontend Development (mainly Javascript & CSS), and i'm also completing the Frontend Path course on Scrimba.
 
@@ -24,3 +24,4 @@ My name is Maciej, and I'm a highschool student from Poland, aspiring to become 
 ## 📧 Contact me
 [![My Email: maciej.krol11@op.pl](https://img.shields.io/badge/Send_me_an_Email-e3e3e3?style=for-the-badge&logo=gmail)](mailto:maciej.krol11@op.pl)<br>
 ![My discord: FancyBaguette#5955](https://discord.c99.nl/widget/theme-3/275353623884464129.png)
+ -->
