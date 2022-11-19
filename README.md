@@ -22,21 +22,12 @@ My name is Maciej, and I'm a highschool student from Poland, aspiring to become 
 📧 Contact me [through email](mailto:maciej.krol11@op.pl) or through Discord (*shown at the bottom*)
 
 ## My toolbox
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" title="HTML5"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" title="CSS3"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" title="Javascript"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="32" height="32" title="SASS/SCSS"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32" title="Tailwind"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" height="32" title="Figma"/>
-</p>
+
+![Tech i regularly use for my projects](https://skillicons.dev/icons?i=html,css,js,scss,tailwind,figma,github,vscode)
 
 ## Things i'm learning
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" title="Javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" title="Typescript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" title="React"/>
-</p>
+
+![Tech i'm currently learning](https://skillicons.dev/icons?i=js,ts,react)
 
 
 
