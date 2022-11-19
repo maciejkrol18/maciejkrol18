@@ -13,7 +13,34 @@ My name is Maciej, and I'm a highschool student from Poland, aspiring to become 
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-18459e?style=for-the-badge&logo=visualstudiocode)
 <br><br> -->
 
-<!-- ## 🏆 My stats -->
+<p align="center">
+
+## Hi there 👋
+
+🎓 My name is Maciej, and I'm a highschool student from Poland <br><br>
+👨‍💻 I'm currently learning all things related to frontend development, mainly Javascript, Typescript and React <br><br>
+📧 Contact me [through email](mailto:maciej.krol11@op.pl) or through Discord (*shown at the bottom*)
+
+## My toolbox
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" title="HTML5"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" title="CSS3"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" title="Javascript"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="32" height="32" title="SASS/SCSS"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32" title="Tailwind"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" height="32" title="Figma"/>
+</p>
+
+## Things i'm learning
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" title="Javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" title="Typescript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" title="React"/>
+</p>
+
+
+
+## Github stats
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=FancyBaguette&show_icons=true&hide_title=true&theme=react&border_color=434554)](https://github.com/anuraghazra/github-readme-stats)
 
