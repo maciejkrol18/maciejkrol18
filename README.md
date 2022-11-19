@@ -7,7 +7,7 @@
 
 ## My toolbox
 
-![html, css, js, scss, tailwind, figma, github and vscode](https://skillicons.dev/icons?i=html,css,js,scss,tailwind,figma,github,vscode)
+![HTML5, CSS3, JS, SCSS, Tailwind, Figma, Github, VS Code](https://skillicons.dev/icons?i=html,css,js,scss,tailwind,figma,github,vscode)
 
 ## Things i'm learning
 
