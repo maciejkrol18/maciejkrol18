@@ -19,9 +19,9 @@
 <!-- [![My top used languages]()](https://github.com/anuraghazra/github-readme-stats) -->
 
 <span>
-  <img src='https://github-readme-stats.vercel.app/api?username=FancyBaguette&show_icons=true&hide_title=true&bg_color=242938&text_color=FFFFFF&border_color=434554' height=120px/>
+  <img src='https://github-readme-stats.vercel.app/api?username=FancyBaguette&show_icons=true&hide_title=true&bg_color=242938&text_color=FFFFFF&border_color=434554' height=130px/>
 </span>
   
 <span>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=FancyBaguette&layout=compact&bg_color=242938&text_color=FFFFFF&border_color=434554&title_color=FFFFFF' height=120px/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=FancyBaguette&layout=compact&bg_color=242938&text_color=FFFFFF&border_color=434554&title_color=FFFFFF' height=130px/>
 </span>
