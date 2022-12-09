@@ -7,11 +7,11 @@
 
 ## My toolbox
 
-![HTML5, CSS3, JS, SCSS, Tailwind, Figma, Github, VS Code, Vite](https://skillicons.dev/icons?i=html,css,js,scss,tailwind,figma,github,vscode,vite)
+![(Image failed to load) HTML5, CSS3, JS, SCSS, Tailwind, Figma, Github, VS Code, Vite](https://skillicons.dev/icons?i=html,css,js,scss,tailwind,figma,github,vscode,vite)
 
 ## Things i'm learning
 
-![Javascript, Typescript and React](https://skillicons.dev/icons?i=js,ts,react)
+![(Image failed to load) Javascript, Typescript and React](https://skillicons.dev/icons?i=js,ts,react)
 
 ## Github stats
 
