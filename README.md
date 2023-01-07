@@ -1,7 +1,7 @@
 ## <samp>Hi there!</samp>
 
 <samp>I'm Maciej and I'm a highschool student from Poland doing frontend stuff :trollface:</samp> <br>
-<samp>Currently working on <strong>Skylines Atlas</strong> - a react web app for browsing data about Cities: Skylines maps</samp>
+<samp>Currently working on <strong>Skylines Atlas</strong> - a web app built with react and firebase for browsing data about Cities: Skylines maps</samp>
 
 
 <details>
