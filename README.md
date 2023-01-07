@@ -18,6 +18,7 @@
   <br>
   
   <img src="https://skillicons.dev/icons?i=html,css,js,react,scss,tailwind,figma,github,vite" alt="(Image failed to load) HTML5, CSS3, JS, SCSS, Tailwind, Figma, Github, VS Code, Vite" height=32/>
+  <br> <samp>Editor: Webstorm</samp>
 </details>
 
 <details>
