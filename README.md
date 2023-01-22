@@ -1,6 +1,3 @@
-<samp>Currently on a break <strike>working on <strong>Skylines Atlas</strong> - a web app built with react and firebase for browsing data about Cities: Skylines maps</strike></samp>
-
-
 <details>
   <summary>&#x2709; <samp>Contact me</samp></summary>
   <br>
