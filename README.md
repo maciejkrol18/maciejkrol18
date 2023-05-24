@@ -2,8 +2,8 @@
   <summary>&#x2709; <samp>Contact me</samp></summary>
   <br>
   
-  <img src=https://discord.c99.nl/widget/theme-3/275353623884464129.png alt="My discord: Fancy Baguette#5955"/> <br>
-  or send me an <a href=mailto:maciej.krol11@op.pl>email</a>
+  <!-- <img src=https://discord.c99.nl/widget/theme-3/275353623884464129.png alt="My discord: Fancy Baguette#5955"/> <br> -->
+  Send me an <a href=mailto:maciej.krol11@op.pl>email</a>
   <br>
 </details>
 
