@@ -11,7 +11,7 @@
   <summary>&#x2692; <samp>My toolbox</samp></summary>
   <br>
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,scss,tailwind,figma,github,vite" alt="(Image failed to load) HTML5, CSS3, JS, SCSS, Tailwind, Figma, Github, VS Code, Vite" height=32/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,scss,tailwind,figma,github,vite" alt="(Image failed to load) HTML5, CSS3, JS, SCSS, Tailwind, Figma, Github, VS Code, Vite" height=32/>
 </details>
 
 <details>
