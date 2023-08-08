@@ -2,7 +2,7 @@
   <summary>&#x2709; <samp>Contact me</samp></summary>
   <br>
   
-  <!-- <img src=https://discord.c99.nl/widget/theme-3/275353623884464129.png alt="My discord: Fancy Baguette#5955"/> <br> -->
+  <!-- <img src=https://discord.c99.nl/widget/theme-3/275353623884464129.png> <br> -->
   Send me an <a href=mailto:maciej.krol11@op.pl>email</a>
   <br>
 </details>
@@ -10,12 +10,13 @@
 <details>
   <summary>&#x2692; <samp>My toolbox</samp></summary>
   <br>
-  
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,scss,tailwind,figma,github,vite" alt="(Image failed to load) HTML5, CSS3, JS, SCSS, Tailwind, Figma, Github, VS Code, Vite" height=32/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,scss" alt="(Image failed to load) HTML5, CSS3, Javascript, Typescript, SASS/SCSS" height=32/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,figma,github,vite,vscode" alt="(Image failed to load) React, NextJS, NodeJS, Tailwind, Figma, Github, Vite, Vscode" height=32/>
 </details>
 
 <details>
-  <summary>:octocat: <samp>GitHub stats</samp></summary>
+  <summary>:trollface: <samp>GitHub stats</samp></summary>
   <br>
   
 <span>
