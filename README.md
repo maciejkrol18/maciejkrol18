@@ -1,9 +1,7 @@
 <details>
   <summary>&#x2709; <samp>Contact me</samp></summary>
   <br>
-  
-  <!-- <img src=https://discord.c99.nl/widget/theme-3/275353623884464129.png> <br> -->
-  Send me an <a href=mailto:maciej.krol11@op.pl>email</a>
+  Send me an <a href=mailto:biz.maciej.krol@gmail.com>email</a>
   <br>
 </details>
 
