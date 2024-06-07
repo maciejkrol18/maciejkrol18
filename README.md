@@ -25,3 +25,6 @@
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=maciejkrol18&layout=compact&bg_color=242938&text_color=FFFFFF&border_color=434554&title_color=FFFFFF' height=130px/>
 </span>
 </details>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cdn.discordapp.com/attachments/546804787677757503/1248725898903945336/vro.png?ex=6664b61e&is=6663649e&hm=674ddf827619b27b8f44eed5f6765e1744c6e73f57abb1adaa04d50ac19692f5&');]{x0000}$}
